@@ -62,5 +62,5 @@ for i in range(20):
 
     time.sleep(1)
     driver.quit()
-    time.sleep(180)
+    time.sleep(900)
 
